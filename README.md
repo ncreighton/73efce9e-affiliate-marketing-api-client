@@ -1,2 +1,71 @@
-# 73efce9e-affiliate-marketing-api-client
-Every affiliate marketing professionals needs this — most just don't know it yet.  Compatible with Remote SSH, WSL, Dev Containers, and GitHub Codespaces. Integrates seamlessly into your VS Code workflow — keyboard shortcuts included.  ## What's Included  - Affiliate Marketing Api Client And Request Builder — fully configured and ready to use - Int
+# Affiliate Marketing API Client and Request Builder VS Code Extension
+
+> Build, test, and document API requests without leaving your editor. Postman alternative that lives in VS Code.
+
+## Features
+
+- Core functionality
+
+## Installation
+
+### From VS Code Marketplace
+1. Open VS Code
+2. Press `Ctrl+P` (or `Cmd+P` on Mac)
+3. Type `ext install digitalforge.73efce9e`
+4. Press Enter
+
+### From VSIX file
+1. Download the `.vsix` file
+2. In VS Code: `Extensions > ··· > Install from VSIX`
+3. Select the downloaded file
+
+## Usage
+
+Press `Ctrl+Shift+P` and search for `Affiliate Marketing API Client and Request Builder VS Code Extension` to see all available commands.
+
+**Keyboard shortcut:** `Ctrl+Shift+Alt+A` (or `Cmd+Shift+Alt+A` on Mac)
+
+## Settings
+
+| Setting | Default | Description |
+|---------|---------|-------------|
+| `73efce9e.enabled` | `true` | Enable/disable the extension |
+| `73efce9e.autoRun` | `false` | Auto-run on file open |
+| `73efce9e.logLevel` | `"info"` | Log verbosity |
+
+## Requirements
+
+- VS Code 1.74.0 or higher
+
+## Contributing
+
+Found a bug? [Open an issue](https://github.com/digitalforge/73efce9e/issues).
+
+## License
+
+MIT — see [LICENSE](LICENSE) for details.
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core language support | Yes | Yes |
+| Basic snippets | Yes | Yes |
+| Standard themes | Yes | Yes |
+| AI-powered completions | - | Yes |
+| Advanced refactoring | - | Yes |
+| Team sync | - | Yes |
+| Custom keybindings | - | Yes |
+| Priority bug fixes | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/8x24gz6mX7Eo5tu47qcZM2L)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/8x24gz6mX7Eo5tu47qcZM2L)
+
